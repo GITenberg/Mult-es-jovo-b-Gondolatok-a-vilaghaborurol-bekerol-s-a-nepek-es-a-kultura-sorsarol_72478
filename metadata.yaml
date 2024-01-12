@@ -1,0 +1,53 @@
+_repo: Mult-es-jovo-b-Gondolatok-a-vilaghaborurol-bekerol-s-a-nepek-es-a-kultura-sorsarol_72478
+_version: 0.0.1
+alternative_title: Hier et demain. Hungarian
+contributor:
+  translator:
+    agent_name: Wildner, Ödön
+    alias: Wildner, Odon
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '53698'
+    url: http://www.gutenberg.org/2009/agents/53698
+    wikipedia: https://hu.wikipedia.org/wiki/Wildner_%C3%96d%C3%B6n
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2023-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72478'
+language: hu
+pgterms:marc905: 20231215231016lebon
+pgterms:marc906: '1920'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Kultura és tudomány
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Ethnopsychology'
+- !lcc 'D'
+- GITenberg
+tableOfContents: I. Rész. A történelem vezérlő erői -- II. Rész. Csaták közben --
+  III. Rész. A népek lélektana -- IV. Rész. A nemzetek hatalmának anyagi tényezői
+  -- V. Rész. A nemzetek hatalmának lelki tényezői -- VI. Rész. A népek mai kormányai
+  -- VII. Rész. A jövő perspektivái -- VIII. Rész. A tudomány körében.
+title: 'Múlt és jövő : $b (Gondolatok a világháborúról, békéről s a népek és a kultura
+  sorsáról)'
+url: http://www.gutenberg.org/ebooks/72478
